@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="form.xsl"?>
+<formulario name="Contacta con nosotros!">
+ <nombre>Nombre: </nombre>
+ <apellidos>Apellidos: </apellidos>
+ <edad>Edad: </edad>
+ <email>Email: </email>
+ <informacion>Quiero recibir nformacion a mi email: </informacion>
+ <sexo hombre="hombre" mujer="mujer">Sexo: </sexo>
+</formulario>
